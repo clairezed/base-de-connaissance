@@ -408,12 +408,41 @@ The creative studio for social change
 
 https://agency.sc/
 
+### Odass
+
+ODASS, SCOP spécialiste des NTIC, conçoit et développe les outils quotidiens de l'action économique, sociale et solidaire.
+
+[www.odass.org](https://www.odass.org/)
+
+### Anybox ?
+
+travaille sur une solution web de gestion des associations et des syndicats, spécialistes Odoo
+[anybox.fr](https://anybox.fr/)
+
 ### Coop It Easy
 
 Des outils de gestion open source au service de l'économie sociale.
 Outils basés sur Odoo, dont un dédié à la gestion des coopératives.
 
-http://coopiteasy.be/
+[http://coopiteasy.be/](http://coopiteasy.be/) - Belgique
+
+### CoopDevs
+
+Description par Myriam (Open Food Network) - août 2018 : 
+
+"Coopdevs est une coopérative de développeurs en construction à Barcelone dont la mission est "tech for good", tout ce qu'ils font est open source. Ils ne font pas que développer, ils initient aussi des projets, comme le logiciel de banque de temps [timeoverflow](https://www.timeoverflow.org/) et je les connais bien puisqu'ils ont aussi initié le développement d'Open Food Network en Espagne/Ibérica. Ils bossaient sur un logiciel open source pour les circuits courts, et ont préféré abandonné leur projet solo pour gagner la puissance de la communauté OFN :-) Ils sont aujourd'hui super actifs dans la communauté, et même parmi les lead développeurs.
+
+Ils travaillent aussi avec Som Energia et/ou Som Telecom, les coopératives équivalentes à Enercoop et Telecoop en Catalogne.
+
+Ils ne sont pas juste "sous-traitants" dans ces projets, ils sont complètement parties prenantes, s'engagent dans et avec les projets qu'ils accompagnent techniquement, et sur le long terme.
+
+Ils recoivent de toutes part des demandes de modules de type ERP et ont eux-même en Catalogne fédéré les acteurs pour codévelopper ces outils en commun sur Odoo, comme on le fait ici... donc cultural et project fit = 200%. On a plutôt parlé des modules compta / facturation / CRM ... mais j'imagine qu'ils ont dû réfléchir aussi sur les modules gestion du sociétariat.
+
+Aujourd'hui ils ne sont pas spécialistes d'Odoo, mais ils se forment donc et recrutent des coopérateurs en internes qui ont ces compétences poru répondre au besoin émergent local, et on a déjà organisé un échange avec le GRAP aussi pour voir s'il pouvait y avoir des possibilités de coopération sur la base de ce qu'a déjà fait le GRAP.
+
+Ils ont travaillé depuis un an à la création de la coop et ont déposé les statuts il n'y a que quelque mois, avant c'était une asso, donc les choses se structurent de leur côté depuis peu, mais ils sont vraiment au coeur des réseaux coopératifs. Mais ils sont super pro de A à Z."
+
+[Coopdev](http://coopdevs.org/es) - Espagne
 
 ## Dev solo qui font de l'ESS
 
