@@ -12,3 +12,6 @@
 - server
 
 cf [Ionic performance techniques](https://github.com/manucorporat/perf-apis-2/blob/dcec287625cd4d6aca5e92ad2ad52b0f7fdb1989/performance-techniques.pdf)
+
+- optimize your images and generate RWD variations for `srcset`
+- removing useless scripts and prioritize the others

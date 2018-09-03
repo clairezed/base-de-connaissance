@@ -1,5 +1,25 @@
 # A lire
 
+- [A lire](#a-lire)
+  - [Pas encore lu](#pas-encore-lu)
+    - [Feel good reads](#feel-good-reads)
+    - [Systémique / à classer](#syst%C3%A9mique--%C3%A0-classer)
+    - [Design](#design)
+    - [Programmation](#programmation)
+      - [Javascript](#javascript)
+    - [Code / design social](#code--design-social)
+    - [Open source](#open-source)
+    - [Activisme](#activisme)
+    - [A son compte](#a-son-compte)
+    - [Psycho-socio](#psycho-socio)
+    - [Faire à plusieurs - gestion de projet](#faire-%C3%A0-plusieurs---gestion-de-projet)
+    - [En-dedans](#en-dedans)
+    - [Parentalité](#parentalit%C3%A9)
+    - [Livres pour petits](#livres-pour-petits)
+  - [Lu](#lu)
+    - [Psycho-socio](#psycho-socio)
+    - [A son compte](#a-son-compte)
+
 ## Pas encore lu
 
 ### Feel good reads
@@ -62,6 +82,19 @@ POUR UNE ÉCOLOGIE DES PRATIQUES COLLECTIVES (version en ligne)
 <!-- http://livre.fnac.com/a9180576/Scott-Stossel-Anxiete -->
 
 - Gloria Steinem, « Revolution from Within. A Book of Self-Esteem »
+
+### Parentalité
+
+- des anciens bouquins Gordon, parents efficaces 
+- les livres de Filliozat
+- Faber Mazlich ("écouter pour que les enfants parlent, parler pour que les enfants écoutent")
+- La 3ème voie de Stephen Covey 
+- La communication non violente de Marshall Rosenberg 
+- La discipline positive de Jane Nelsen
+
+### Livres pour petits 
+
+- la couleur des émotions, Anna Llenas (pour identifier des émotions)
 
 
 ## Lu

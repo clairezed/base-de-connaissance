@@ -1,6 +1,8 @@
-# Humour
+# Humour <!-- omit in toc -->
 
-## Deni Colombi
+- [Denis Colombi](#denis-colombi)
+
+## Denis Colombi
 
 - **les ragots et l'humour** : Les deux fonctionnent sur le mode de l'[anecdote](https://www.scienceshumaines.com/a-quoi-servent-les-anecdotes_fr_28755.html) : ils essayent de donner une image très concentrée du monde et, finalement, de dire une vérité.
 - Quand un dominant explique à un dominé comment il doit ressentir les choses, il ne fait qu'exercer sa domination. Dans le cas des hommes qui expliquent aux femmes ce que c'est que d'être une femme, on appelle ça du "mansplaining".

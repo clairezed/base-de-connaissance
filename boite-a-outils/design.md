@@ -2,23 +2,25 @@
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Listes de ressources](#listes-de-ressources)
-- [Checklist](#checklist)
-- [CSS](#css)
-- [UX](#ux)
-- [Prototypage / Wireframe / Mockups](#prototypage-wireframe-mockups)
-- [Couleurs](#couleurs)
-- [Templates](#templates)
-- [Medias](#medias)
-	- [Photos](#photos)
-	- [Illustrations](#illustrations)
-	- [Vidéos](#vidos)
-	- [Icons](#icons)
-	- [Fonts](#fonts)
-- [Manpulation images](#manpulation-images)
-	- [Retoucher vite fait une image](#retoucher-vite-fait-une-image)
-	- [Compression photo](#compression-photo)
-- [Données](#donnes)
+- [Boîte à outils - Design](#bo%C3%AEte-%C3%A0-outils---design)
+	- [Listes de ressources](#listes-de-ressources)
+	- [Checklist](#checklist)
+	- [CSS](#css)
+	- [UX](#ux)
+	- [Prototypage / Wireframe / Mockups](#prototypage--wireframe--mockups)
+	- [Couleurs](#couleurs)
+	- [Templates](#templates)
+	- [Medias](#medias)
+		- [Photos](#photos)
+		- [Illustrations](#illustrations)
+		- [Vidéos](#vid%C3%A9os)
+		- [Icons](#icons)
+		- [Fonts](#fonts)
+	- [Manpulation images](#manpulation-images)
+		- [Retoucher vite fait une image](#retoucher-vite-fait-une-image)
+		- [Compression photo](#compression-photo)
+		- [Organisation photos](#organisation-photos)
+	- [Données](#donn%C3%A9es)
 
 <!-- /TOC -->
 
@@ -69,6 +71,7 @@ Open source :
 - [Vanschneider, colors](http://www.vanschneider.com/colors/) : alliance de deux couleurs dans des ptites cartes
 - [Cohesive Colors](http://javier.xyz/cohesive-colors/)
 - [Color Supply](http://colorsupplyyy.com/app/) : "The best color combinations from designers & illustrators around the world."
+- [Picular](https://picular.co/) : "google, but for colors"
 
 ## Templates
 
@@ -117,6 +120,9 @@ Open source :
 
 Pense à virer les infos EXIF des photos aussi, elles seront plus légères après
 
+### Organisation photos
+
+- [Shotwell](https://fr.wikipedia.org/wiki/Shotwell)
 
 ## Données
 
