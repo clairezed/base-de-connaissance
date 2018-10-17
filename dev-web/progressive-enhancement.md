@@ -5,6 +5,7 @@
 Voir :
 - [The Slow Death of Internet Explorer and the Future of Progressive Enhancement](https://alistapart.com/article/the-slow-death-of-internet-explorer-and-future-of-progressive-enhancement)
 - [Cutting the Mustard with Media Queries ](https://github.com/Fall-Back/CSS-Mustard-Cut)
+- [The power of progressive enhancement](https://medium.com/no-divide/the-power-of-progressive-enhancement-98738766b009)
 
 ### Charger un css suivant le navigateur
 

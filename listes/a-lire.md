@@ -42,6 +42,8 @@
 - [Change by Design](https://www.ideo.com/post/change-by-design), Tim Brown, CEO of IDEO
 - [How to Use Graphic Design to Sell Things](https://www.amazon.com/Graphic-Design-Things-Explain-Better/dp/0062413902/), Explain Things, Make Things Look Better, Make People Laugh, Make People Cry, and (Every Once in a While) Change the World ; Michael Bierut
 - [How to Make Sense of Any Mess: Information Architecture for Everybody](https://www.amazon.com/How-Make-Sense-Any-Mess/dp/1500615994/)
+- [Design for rea life](https://abookapart.com/products/design-for-real-life) : You can’t know every user, but you can develop inclusive practices to create experiences that support a wider range of people, more of the time.
+
 
 ### Programmation
 

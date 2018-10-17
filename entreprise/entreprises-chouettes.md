@@ -1,58 +1,64 @@
 # Inspirations entreprises
 
-
-
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Valeurs qui en jettent](#valeurs-qui-en-jettent)
-	- [37 signals](#37-signals)
-	- [Geoffrey Dorne](#geoffrey-dorne)
-	- [Digicoop](#digicoop)
-	- [Collectif Bam](#collectif-bam)
-	- [Low Tech Lab](#low-tech-lab)
-	- [SOCCOOP](#soccoop)
-	- [Heydon](#heydon)
-	- [Makesense](#makesense)
-	- [Symbiotique.fr](#symbiotiquefr)
-- [Entreprises](#entreprises)
-	- [Tech coops](#tech-coops)
-	- [Sassafras](#sassafras)
-	- [Gcoop](#gcoop)
-	- [Enspiral](#enspiral)
-	- [Lab Coop](#lab-coop)
-	- [Koumbit](#koumbit)
-	- [Territoires.coop](#territoirescoop)
-	- [Colab.coop](#colabcoop)
-	- [Coliga](#coliga)
-	- [Metastrat](#metastrat)
-	- [Initiatives et Cité](#initiatives-et-cit)
-	- [Digital Social innovation](#digital-social-innovation)
-	- [Design des politiques publiques en Europe](#design-des-politiques-publiques-en-europe)
-	- [Plateau Urbain](#plateau-urbain)
-	- [L'atelier paysan](#latelier-paysan)
-	- [Collectif Bam](#collectif-bam)
-	- [Hyperville](#hyperville)
-	- [Carton Plein](#carton-plein)
-	- [Lande](#lande)
-	- [Design Territoire Alternatives](#design-territoire-alternatives)
-	- [User Studio](#user-studio)
-	- [Plausible Possible](#plausible-possible)
-	- [Grrr](#grrr)
-	- [Coloco & co](#coloco-co)
-	- [Vraiment Vraiment](#vraiment-vraiment)
-	- [La Boussole](#la-boussole)
-	- [Scopyleft](#scopyleft)
-	- [Datactivi.st](#datactivist)
-	- [L'Office](#loffice)
-	- [La coroutine](#la-coroutine)
-	- [La Fabulerie](#la-fabulerie)
-	- [Codeurs en liberté](#codeurs-en-libert)
-	- [/ut7](#ut7)
-	- [DTC innovation](#dtc-innovation)
-	- [Indie](#indie)
-	- [Hominidees](#hominidees)
-	- [L’agence de l’Aventure et de l’Inattendu](#lagence-de-laventure-et-de-linattendu)
-- [Dev solo qui font de l'ESS](#dev-solo-qui-font-de-less)
+- [Inspirations entreprises](#inspirations-entreprises)
+	- [Valeurs qui en jettent](#valeurs-qui-en-jettent)
+		- [37 signals](#37-signals)
+		- [Geoffrey Dorne](#geoffrey-dorne)
+		- [Digicoop](#digicoop)
+		- [Collectif Bam](#collectif-bam)
+		- [Low Tech Lab](#low-tech-lab)
+		- [SOCCOOP](#soccoop)
+		- [Heydon](#heydon)
+		- [Makesense](#makesense)
+		- [Symbiotique.fr](#symbiotiquefr)
+	- [Entreprises](#entreprises)
+		- [Tech coops](#tech-coops)
+		- [Sassafras](#sassafras)
+		- [Gcoop](#gcoop)
+		- [Enspiral](#enspiral)
+		- [Lab Coop](#lab-coop)
+		- [Koumbit](#koumbit)
+		- [Territoires.coop](#territoirescoop)
+		- [Colab.coop](#colabcoop)
+		- [Coliga](#coliga)
+		- [Metastrat](#metastrat)
+		- [Initiatives et Cité](#initiatives-et-cit%C3%A9)
+		- [Digital Social innovation](#digital-social-innovation)
+		- [Design des politiques publiques en Europe](#design-des-politiques-publiques-en-europe)
+		- [Plateau Urbain](#plateau-urbain)
+		- [L'atelier paysan](#latelier-paysan)
+		- [Collectif Bam](#collectif-bam)
+		- [Hyperville](#hyperville)
+		- [Carton Plein](#carton-plein)
+		- [Lande](#lande)
+		- [Design Territoire Alternatives](#design-territoire-alternatives)
+		- [User Studio](#user-studio)
+		- [Plausible Possible](#plausible-possible)
+		- [Grrr](#grrr)
+		- [Coloco & co](#coloco--co)
+		- [Vraiment Vraiment](#vraiment-vraiment)
+		- [La Boussole](#la-boussole)
+		- [Scopyleft](#scopyleft)
+		- [Datactivi.st](#datactivist)
+		- [L'Office](#loffice)
+		- [La coroutine](#la-coroutine)
+		- [La Fabulerie](#la-fabulerie)
+		- [Codeurs en liberté](#codeurs-en-libert%C3%A9)
+		- [/ut7](#ut7)
+		- [DTC innovation](#dtc-innovation)
+		- [Indie](#indie)
+		- [Hominidees](#hominidees)
+		- [L’agence de l’Aventure et de l’Inattendu](#lagence-de-laventure-et-de-linattendu)
+		- [Agency](#agency)
+		- [Odass](#odass)
+		- [Anybox ?](#anybox)
+		- [Coop It Easy](#coop-it-easy)
+		- [CoopDevs](#coopdevs)
+		- [Le Filament](#le-filament)
+		- [Cobea Coopérative](#cobea-coop%C3%A9rative)
+	- [Dev solo qui font de l'ESS](#dev-solo-qui-font-de-less)
 
 <!-- /TOC -->
 
@@ -445,6 +451,16 @@ Aujourd'hui ils ne sont pas spécialistes d'Odoo, mais ils se forment donc et re
 Ils ont travaillé depuis un an à la création de la coop et ont déposé les statuts il n'y a que quelque mois, avant c'était une asso, donc les choses se structurent de leur côté depuis peu, mais ils sont vraiment au coeur des réseaux coopératifs. Mais ils sont super pro de A à Z."
 
 [Coopdev](http://coopdevs.org/es) - Espagne
+
+### Le Filament
+
+[le-filament.com](https://le-filament.com/) - Toulouse
+
+### Cobea Coopérative
+
+Cobea Coop est une coopérative de création de sites web qui accompagne les entrepreneurs et les organisations à développer une communication digitale durable à coûts maîtrisés grâce à des méthodes collaboratives et une plateforme mutualisée.
+
+[cobea.coop](http://cobea.coop/) - Belgique, Saint Gilles
 
 ## Dev solo qui font de l'ESS
 

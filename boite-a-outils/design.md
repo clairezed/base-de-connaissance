@@ -12,6 +12,7 @@
 	- [Templates](#templates)
 	- [Medias](#medias)
 		- [Photos](#photos)
+			- [Photos libres de droit](#photos-libres-de-droit)
 		- [Illustrations](#illustrations)
 		- [Vidéos](#vid%C3%A9os)
 		- [Icons](#icons)
@@ -63,6 +64,7 @@ Open source :
 
 - [Pencil](https://pencil.evolus.vn/Stencils-Templates.html)
 - [Wireframe Sketcher](https://wireframesketcher.com)
+- [Presentator.io](https://presentator.io/fr), plateforme de collaboration et de présentation "à la inVision"
 
 ## Couleurs
 
@@ -87,6 +89,12 @@ Open source :
 
 - [Unsplash](https://unsplash.com)
 
+#### Photos libres de droit
+
+- [Gallica](https://gallica.bnf.fr/accueil/?mode=desktop)
+- [commons de flickr](https://www.flickr.com/commons)
+- [Europeana](https://www.europeana.eu/portal/en)
+
 ### Illustrations
 
 - [Pexels](https://www.pexels.com/)
@@ -105,7 +113,11 @@ Open source :
 
 ### Fonts
 
+- [ A Beautifully Illustrated Glossary Of Typographic Terms You Should Know](https://www.canva.com/learn/typography-terms/)
+- [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
 - [Fontstorage](https://fontstorage.com)
+- [FontPair](https://fontpair.co/)
+- [TypeWolf](https://www.typewolf.com)
 
 ## Manpulation images
 

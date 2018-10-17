@@ -1,5 +1,8 @@
 # Hébergement
 
+- [awesome libre hosters](https://framagit.org/librehosters/awesome-librehosters)
+- [Cartographie des acteurs d’hébergements et d’outils alternatifs](https://hackmd.lescommuns.org/GwQwTMwCYMwgtADgAwgQFgGbAKZIMYDsARvAJwxhSLHCGWI5A===?view)
+
 ## Critères
 
 - prix
