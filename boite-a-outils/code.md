@@ -16,6 +16,12 @@
 	- Use version control
 	- Manage state responsibly
 
+
+#### Accessibilité
+- [Tools for Developing Accessible Websites](https://bitsofco.de/tools-for-developing-accessible-websites/)
+- [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)
+- [Small Tweaks That Can Make a Huge Impact on Your Website’s Accessibility](https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/)
+
 ### Boilerplates
 
 * [Megaboilerplate](http://megaboilerplate.com/)
