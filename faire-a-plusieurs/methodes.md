@@ -44,6 +44,7 @@ et participatives (Québec)
 
 - [l'atelier collaboratif](http://atelier-collaboratif.com/toutes-les-pratiques.php)
 
+- [Ressources partagées](https://www.dropbox.com/sh/7hi1alwb7cixwcx/AAB8kYDgeu_x5_ms7A3y4yU0a?dl=0) du collectif dynamo (CNV, permaculture, ESS, éducation populaire, jeux coopératifs)
 
 ### Anglophone
 

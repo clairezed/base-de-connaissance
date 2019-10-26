@@ -3,6 +3,7 @@
 ## Ressources générales
 
 - [UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/?ref=hackdesign), by Nielsen Norman Group
+- [Undercover User Experience Design]() : livre recommandé par @annso  sur comment faire du bon travail d’ux sans budget, ni temps, ni support de la hiérarchie
 
 ## Des gens à lire
 

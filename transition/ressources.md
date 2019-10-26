@@ -24,7 +24,7 @@
 
 - [Les cinq stades de l'effondrement](https://www.placedeslibraires.fr/livre/9782355120671-les-cinq-stades-de-l-effondrement-dmitry-orlov/), Dmitry Orlov : reprend l’histoire de la chute de l’URSS et établit un ensemble d’étapes pour comprendre et vivre l’effondrement (financier, commercial, politique, social et culturel).
 
-- [Petit ouvrage d’autonomie technologique](https://www.369editions.com/petit-ouvrage-dautonomie-technologique/) de Claire Richard,
+- [Petit ouvrage d’autonomie technologique](https://www.369editions.com/petit-ouvrage-dautonomie-technologique/) de Claire Richard
 
 - [L’âge des Low Tech](http://www.seuil.com/ouvrage/l-age-des-low-tech-philippe-bihouix/9782021160727), Philippe Bihouix
 

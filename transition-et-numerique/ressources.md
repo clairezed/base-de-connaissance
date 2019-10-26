@@ -13,6 +13,8 @@
 
 - [Checklist Ecoconception web](https://checklists.opquast.com/ecoconception-web/) Opquast
 
+- [Awesome Numérique Responsable](https://github.com/cyrildotcc/awesome-numerique-responsable)
+
 ### Internet low-tech
 
 - [How to Build a Low-tech Internet](http://www.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet.html)
@@ -21,6 +23,8 @@
 - [What is a HAM Mesh Network – A Primer](http://oemcomm.org/ham-mesh-network-primer/)
 - [How to build a Low-Tech website: Software & Hardware](https://homebrewserver.club/low-tech-website-howto.html)
 - [Quelles technologies pour une société durable ?](https://atterrissage.org/technologies-societe-durable-65514b474700)
+- [The bare project](https://bare.eco/)
+
 
 ## Agence web "verte"
 
@@ -29,5 +33,5 @@
 ## Outils
 
 - [Liste des outils Green-it](https://collectif.greenit.fr/outils.html)
-- [ecometer.org](http://ecometer.org) : maturité environnemental d'un site web
+  - [ecometer.org](http://ecometer.org) : maturité environnemental d'un site web
 - [ecoindex.fr](http://www.ecoindex.fr/) : évaluation de la performance de la page, de son empreinte technique et de don empreinte environnementale

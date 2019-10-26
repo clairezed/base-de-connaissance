@@ -1,5 +1,9 @@
 # Boîte à outils - Bureautique
 
+## Trouver des alternatives
+
+- [switching.social](https://switching.social/)
+
 ## Mailing
 
 - [Our nonprofit needed a cheaper way to send email blasts. So we engineered one.](https://medium.freecodecamp.org/our-nonprofit-needed-a-cheaper-way-to-send-email-blasts-so-we-engineered-one-167322e3f28e)
@@ -60,6 +64,7 @@ avec édition collaborative :
 
 - [Miniflux](https://miniflux.app/)
 - [feedbin](https://feedbin.com/)
+- freshRSS
 
 ## Prise de note
 
@@ -78,3 +83,7 @@ avec édition collaborative :
 ## Conférence téléphonique
 
 OVH : https://www.ovh.com/conferences/
+
+## Traduction
+
+- [deepl.com](https://www.deepl.com/translator)

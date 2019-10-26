@@ -1,5 +1,10 @@
 # CSS
 
+## Tuto - manuels
+
+- [every-layout.dev](https://every-layout.dev) : Relearn CSS layout. Through a series of simple, composable layouts, Every Layout will teach you how to better harness the built-in algorithms that power browsers and CSS.
+- [learnlayout.com](https://learnlayout.com/) : This site teaches the CSS fundamentals that are used in any website's layout. 
+
 ## Librairies
 
 - [Milligram](https://milligram.io/) ([github](https://github.com/milligram/milligram)) - 7200 stars
@@ -16,6 +21,18 @@ Pour une approche par composants :
 
 ## Approches
 
+### Général 
+
+**Unités**
+https://www.w3.org/Style/Examples/007/units.fr.html
+
+> c'est à peu prêt ce que j'utilise :
+> **rem** dans pas mal de cas, car je souhaite pouvoir changer "facilement" l'aspect général de mon design simplement en touchant à ma base font size (padding, margin)
+> **em** pour les font-size
+> **px** pour les invariants (hauteur d'un hr, épaisseur d'une bordure, etc.)
+
+*@lilobase sur le slack Artisans du logiciel
+
 ### Utility first CSS
 
 - [In Defense of Utility-First CSS](https://frontstuff.io/in-defense-of-utility-first-css)
@@ -25,3 +42,9 @@ Pour une approche par composants :
 ### Flexbox
 
 - [The Complete Illustrated Flexbox Tutorial](https://medium.freecodecamp.org/the-complete-illustrated-flexbox-tutorial-d35c085dbf35)
+
+## Inspiration / bonnes pratiques
+
+Adam Wathan & Steve Schoger - Refactoring UI :
+- https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886
+- https://twitter.com/i/moments/994601867987619840

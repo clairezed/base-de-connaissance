@@ -14,6 +14,15 @@ Changement de posture indispensable :
 
 Mais comment faire lorsqu'on est dans un contexte très figé, très contraint difficilement perméable à ce type de pratiques ? Il faut partir du plus petit lieu sur lequel on a prise pour coopérer, quelques collègues de confiance, un petit groupe de travail audacieux... On trouvera toujours deux ou trois personnes prêtes à jouer le jeu !
 
+## Micropolitique des groupes
+
+Cf Micropolitique des groupes de David Vercauteren
+
+3 ingrédients pour souder un groupe :
+- sentiment de sécurité
+- sentiment d'égalité
+- sentiment de confiance
+
 
 ## Exemple de projets de coopération
 

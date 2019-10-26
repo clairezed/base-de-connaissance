@@ -119,3 +119,48 @@ Hébergement
 - Optimiser l’infrastructure logiciel (paramétrage)
 - Optimiser l’infrastructure matérielle (choix du matériel, etc.)
 - Choisir un hébergeur engagé
+
+
+
+
+## L'avenir du numérique à l'ère de l'anthropocène
+
+Conférence Blend Web Mix 2018 - Alexandre Monnin et Diego Landivar.
+
+4 directions :
+- **innovations à ne pas faire advenir** (voiture autonome), penser l'**obsolescence à programmer** (plutôt que l'obsolescence programmée)
+  - avant de faire diminuer le nb de naissance, de faire avorter les femmes, peut-être plutôt faire avorter les innovations ? (notamment celles qu'on peut pas faire advenir, 50 à 100 milliards d' objets connectés par exemple)
+  - les objets connectés, c'est l'avenir du passé. On a pas les moyens de soutenir cette vision.
+  - il s'agit de penser la fin de lignées technologiques trop coûteuses
+- **existant à instaurer / dignifier / rediriger** (prendre soin des objets, attachements)
+  - qu'est-ce qu'on fait des objets qu'on a déjà produit ? Faire un "droit des objets" ? Il pourrait être interdit d'abandonner un objet, d'obliger à maximiser son espérance de vie...
+  - il n'est pas question d'être luddite, de saboter, car ça produirait juste des déchets. Les objets déjà produits, nous devons de toute façon en hériter.
+- **héritage et commun négatif** (ventrale nucléaire)
+  - qu'on soit pro ou anti-nucléaire, on sait qu'on a pas les moyens de continuer, ni d'arrêter tout de suite
+- vers une **nouvelle figure entrepreneuriale : l'entrepocène** (Semler, North Face, Le bon coin)
+  - Ricardo Semler : oggi il faut penser la disparition de nos organisations, la transformation de nos modèles organisationnelles au profit de gestions collectives
+  - patron de North Face utilise sa fortune pour acheter des terres en Patagonie pour les soustraire à l'exploitation, et les rendre au non-humain
+  - en France, on voit apparaitre les 1eres réserves naturelles privés (alors que parcs nationaux peuvent être ouvert à la chasse, à l'exploitation du bois...)
+  - cf un couple qui a racheté des terres sur le bon coin pour les soustraire à l'exploitation
+
+Ce projet de désincubation est un pgm économique, pas politique.
+
+5 types d'accompagnement :
+- (car il est difficile pour les très riches qui prennent conscience de l'anthropocène de se désenrichir) (difficile de passer d'une propriété privée aux communs): accompagnement juridique pour dépatrimoiniser les fortunes
+- désinvestissement des industries carbonées. Plusieurs orga composées d'ingénieur militent dans ce sens là. Il faut que ce soit DANS l'Ets
+- accompagnement dans l'organisation industrielle. Car le lean mangement empêche de se libérer des commandes clients, sont liés par le marché.
+- désinnovation : culture de l'innovation tellement ancrée dans les paradigmes... Mais il faut prendre en compte l'irréversibilité.
+
+Il s'agit d'apprendre à bien atterir, à désaffecter les choses et les réaffecter à autre chose. Faire des centrales fermées des périmètres sacrés à ne pas approcher ?
+Il s'agit aussi de trouver des paliers pour bien atterir. Il s'agit d'euthanasier le riche en nous.
+
+Une entreprise en Espagne interdit à ses filiales de faire + de 12% de profit (car au delà, on présume qu'on fait du mal à ses employés, à la nature...)
+
+
+
+
+Q :  Ecoconception web ? Bonne ou mauvaise chose ? Insuffisant ?
+R (A. Monnin) : evidemment, c'est tjs mieux de penser à l'écoconception, au coût du trafic. Après, c'est bien de minimiser les choses, mais pas dans l'optique de durer le + possible, mais peut-être aussi pour faire atterrir le web.
+
+Par exemple, en Afrique, on fait du web sans internet (downscaling le web), à Détroit on fait du web entre machines avec du mesh.
+Demain, la question va être comment on va s'adapter, et non comment on va faire continuer le web tel qu'il est maintenant, car on n'aura plus les ressources suffisantes.

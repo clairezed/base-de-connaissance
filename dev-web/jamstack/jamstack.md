@@ -6,6 +6,8 @@
 - [The new dynamic](https://www.thenewdynamic.org/) : plein d'articles sur les sites statiques, serverless, etc
 - Snipcart [blog post](https://snipcart.com/blog/jamstack-clients-static-site-cms) about jamstack : plein d'exemple de service + argumentaire client
 - [Awesome Static Hosting and CMS](https://github.com/b-long/awesome-static-hosting-and-cms)
+- [Jamstack wtf](https://jamstack.wtf/)
+- [Serverless by css-tricks](https://serverless.css-tricks.com) : site avec plein de ressources sur le serverles
 
 ## Exemples de workflows
 
@@ -87,7 +89,7 @@
 
 ## Conference Bertrand Keller - Paris web
 
-Nuxt : générateur à la jekyll / hugo, mais en view ? à regarder
+Nuxt : générateur à la jekyll / hugo, mais en vue.js ? à regarder
 
 Hugo : pas de plugin
 

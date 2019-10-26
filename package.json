@@ -1,0 +1,22 @@
+{
+  "name": "base-de-connaissance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clairezed/base-de-connaissance.git"
+  },
+  "author": "",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/clairezed/base-de-connaissance/issues"
+  },
+  "homepage": "https://github.com/clairezed/base-de-connaissance#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.5.2"
+  }
+}

@@ -5,11 +5,16 @@
 #### Javascript
 
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-
-#### Accessibilité
-	- [Tools for Developing Accessible Websites](https://bitsofco.de/tools-for-developing-accessible-websites/)
-	- [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)
-	- [Small Tweaks That Can Make a Huge Impact on Your Website’s Accessibility](https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/)
+- [10 Things You Will Eventually Learn About JavaScript Projects](https://blog.usejournal.com/10-things-you-will-eventually-learn-about-javascript-projects-efd7646b958a) : common patterns that made working on even the most uncoordinated projects somehow manageable.
+	- Divide and conquer (split code in files)
+	- Make things embarrassingly obvious (naming and simple code)
+	- Resolve magic numbers and strings (put explicit values in variables)
+	- Fight nesting
+	- Configure hard : If your application uses global values, API endpoints, feature toggles, or third-party credentials — put those in a separate config file.
+	- Frameworks are there to help
+	- Unless it is a prototype — write tests
+	- Use version control
+	- Manage state responsibly
 
 ### Boilerplates
 
@@ -41,7 +46,7 @@
 - [SysAdmin toolbox (github)](https://github.com/skhaen/sysadmin-toolbox)
 - [Security guide for developers (github)](https://github.com/FallibleInc/security-guide-for-developers)
 - [Hacksplaining](https://www.hacksplaining.com/) : site de formation en ligne sur la sécurité, pour les développeurs.
-
+- [nginxconfig.io](https://nginxconfig.io/)
 
 ### Hébergement
 

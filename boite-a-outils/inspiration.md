@@ -33,7 +33,6 @@ Quelques sites web que j'avais remarqué, à une époque
 - [Extra Bold](http://www.extra-bold.net/references/)
 - [Collectif Yay](http://www.collectif-yay.com/)
 - [SuperHuit](http://superhuit.ch/)
-- [Makeshift](http://mkshft.org/)
 - [Elbow](http://elbowsydney.com.au/contact-us/)
 - [Jeff Chang](http://jeffchang.net/)
 - [Milk Street](http://recipes.177milkstreet.com/) Site de cuisine classe, notamment les recettes (avec visualisation des étapes)
@@ -46,6 +45,7 @@ Quelques sites web que j'avais remarqué, à une époque
 - [ManOverBoard](https://manoverboard.com)
 - [kickpush.co](https://kickpush.co)
 - [decojent.com](https://www.decojent.com/)
+- [carnet nolwenn maudet](https://carnet.nolwennmaudet.com/)
 
 ## Sites "concepts"
 

@@ -27,3 +27,11 @@
 
 **Nuxit**
 - Français
+
+**O2Switch**
+- Français (Montpellier)
+Site : [O2Switch](https://www.o2switch.fr)
+
+## Nom de domaine
+
+O2Switch

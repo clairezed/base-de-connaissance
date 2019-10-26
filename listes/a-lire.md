@@ -4,6 +4,7 @@
   - [Pas encore lu](#pas-encore-lu)
     - [Feel good reads](#feel-good-reads)
     - [Systémique / à classer](#syst%C3%A9mique--%C3%A0-classer)
+    - [Politique](#politique)
     - [Design](#design)
     - [Programmation](#programmation)
       - [Javascript](#javascript)
@@ -17,8 +18,8 @@
     - [Parentalité](#parentalit%C3%A9)
     - [Livres pour petits](#livres-pour-petits)
   - [Lu](#lu)
-    - [Psycho-socio](#psycho-socio)
-    - [A son compte](#a-son-compte)
+    - [Psycho-socio](#psycho-socio-1)
+    - [A son compte](#a-son-compte-1)
 
 ## Pas encore lu
 
@@ -34,6 +35,11 @@
 - “Les mots sont des fenêtres”, Brené Brown
 - “Le force de l’imperfection” de Brené Brown
 - _Reclaim_, un recueil de textes écoféministes choisis par Émilie Hache.
+
+### Politique
+
+- [Être radical : Manuel pragmatique pour radicaux réalistes](https://fr.wikipedia.org/wiki/%C3%8Atre_radical)
+- [L'Âge du faire - Hacking, travail, anarchie](http://www.seuil.com/ouvrage/l-age-du-faire-michel-lallement/9782021190496) - Michel Lallement
 
 ### Design
 - [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_sim_b_2?ie=UTF8&refRID=18V1XW44Y0XF9Z0HC7WN), Steve Krug
@@ -79,6 +85,7 @@ POUR UNE ÉCOLOGIE DES PRATIQUES COLLECTIVES (version en ligne)
 
  - "Sociologie du Projet" de Boutinet
  - "Les décisions absurdes" de Morel.
+
 
 ### En-dedans
 <!-- http://livre.fnac.com/a9180576/Scott-Stossel-Anxiete -->

@@ -16,6 +16,7 @@
 - calcul et suivi des comptes bénévolat formation association
 - appli météo qui explique le temps qu'il va faire EN COMPARAISON avec les jours qui précèdent ("aujourd'hui, un poil + chaud qu'hier", "demain, retour à un temps de merde comme celui qui nous a ruiné le dernier week-end")
 - Custom Element réservation (pour les petits commerces) ou commande
+- "Quoi pour remplacer" : app pour trouver facilement une alternative durable aux objets jetables / plastiques du quotidien
 
 
 ## Projet : cartographie des espaces vacants

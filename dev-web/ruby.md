@@ -2,26 +2,28 @@
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Rails Architecture guidelines](#rails-architecture-guidelines)
-	- [Service objects](#service-objects)
-	- [Form objects](#form-objects)
-	- [Value objects](#value-objects)
-	- [Query objects](#query-objects)
-	- [Decorators / Delegators](#decorators-delegators)
-- [Tips and tricks](#tips-and-tricks)
-	- [Generate data in bulk](#generate-data-in-bulk)
-	- [Context on validations](#context-on-validations)
-- [Resources](#resources)
-	- [Generic](#generic)
-	- [Architecture & POROs :](#architecture-poros-)
-- [Gems bookmarked](#gems-bookmarked)
-	- [Linting / Debug / DevOps](#linting-debug-devops)
-	- [Utilities](#utilities)
-	- [API](#api)
-	- [Code structure](#code-structure)
-	- [Form objects](#form-objects)
-- [Divers](#divers)
-	- [Rails starters and generators](#rails-starters-and-generators)
+- [Ruby & Ruby on rails](#Ruby--Ruby-on-rails)
+	- [Rails Architecture guidelines](#Rails-Architecture-guidelines)
+		- [Service objects](#Service-objects)
+		- [Form objects](#Form-objects)
+		- [Value objects](#Value-objects)
+		- [Query objects](#Query-objects)
+		- [Decorators / Delegators](#Decorators--Delegators)
+	- [Tips and tricks](#Tips-and-tricks)
+		- [Generate data in bulk](#Generate-data-in-bulk)
+		- [Context on validations](#Context-on-validations)
+	- [Resources](#Resources)
+		- [Generic](#Generic)
+		- [API](#API)
+	- [Gems bookmarked](#Gems-bookmarked)
+		- [Linting / Debug / DevOps](#Linting--Debug--DevOps)
+		- [Utilities](#Utilities)
+		- [API](#API-1)
+		- [Code structure](#Code-structure)
+		- [Form objects](#Form-objects-1)
+	- [Divers](#Divers)
+		- [Rails starters and generators](#Rails-starters-and-generators)
+		- [Bundler](#Bundler)
 
 <!-- /TOC -->
 
@@ -139,6 +141,7 @@ Source : [](https://karolgalanciak.com/blog/2018/06/24/rails-and-conditional-val
 - [Decoupling Rails Components](https://www.toptal.com/ruby-on-rails/decoupling-rails-components)
 - [7 Patterns to Refactor Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 - [Enhanced Ruby on Rails Architecture](https://github.com/CodeRocketCo/enhanced-rails-architecture) : concerns, helpers, form object, decorators, policies, publisher-listener ,services
+- [The Ultimate Intermediate Ruby on Rails Tutorial: Let’s Create an Entire App!](https://www.freecodecamp.org/news/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f/) : Authentication (with Devise), Ability to publish posts, and search and categorize them,  Instant messaging (popup windows and a separate messenger), with the ability to create private and group conversations, Ability to add users to contacts, Real time notifications
 
 ### API
 
@@ -191,3 +194,7 @@ Source : [](https://karolgalanciak.com/blog/2018/06/24/rails-and-conditional-val
 
 - [rails starter template](https://github.com/dennybritz/rails_startup_template ) : script that installs basic gems with a wizard, with a few options
 - [Rails Composer](https://github.com/RailsApps/rails-composer) The Rails generator on steroids for starter apps
+
+### Bundler
+
+- [A Guide to Update Gems with bundle update](https://medium.com/cedarcode/reduce-fear-of-bundle-update-with-this-4-step-process-e021e8808c48)

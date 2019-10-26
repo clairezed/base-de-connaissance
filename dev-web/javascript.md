@@ -1,6 +1,7 @@
 # Javascript
 
 ### General js
+- [The vanilla js toolkit](https://vanillajstoolkit.com/)
 - [Questions Js dev should know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.2lk8nq34u)
 - [Clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [30 Day Vanilla JS Challenge](https://github.com/wesbos/JavaScript30)

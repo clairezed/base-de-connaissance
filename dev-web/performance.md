@@ -15,3 +15,12 @@ cf [Ionic performance techniques](https://github.com/manucorporat/perf-apis-2/bl
 
 - optimize your images and generate RWD variations for `srcset`
 - removing useless scripts and prioritize the others
+
+
+## Images
+
+- [Guide optimisation image](https://images.guide/)
+
+## You don't need 
+
+- [You Don't Need](https://github.com/you-dont-need/You-Dont-Need.com) : People choose popular projects, often not because it applies to their problems

@@ -2,63 +2,63 @@
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Inspirations entreprises](#inspirations-entreprises)
-	- [Valeurs qui en jettent](#valeurs-qui-en-jettent)
+- [Inspirations entreprises](#Inspirations-entreprises)
+	- [Valeurs qui en jettent](#Valeurs-qui-en-jettent)
 		- [37 signals](#37-signals)
-		- [Geoffrey Dorne](#geoffrey-dorne)
-		- [Digicoop](#digicoop)
-		- [Collectif Bam](#collectif-bam)
-		- [Low Tech Lab](#low-tech-lab)
-		- [SOCCOOP](#soccoop)
-		- [Heydon](#heydon)
-		- [Makesense](#makesense)
-		- [Symbiotique.fr](#symbiotiquefr)
-	- [Entreprises](#entreprises)
-		- [Tech coops](#tech-coops)
-		- [Sassafras](#sassafras)
-		- [Gcoop](#gcoop)
-		- [Enspiral](#enspiral)
-		- [Lab Coop](#lab-coop)
-		- [Koumbit](#koumbit)
-		- [Territoires.coop](#territoirescoop)
-		- [Colab.coop](#colabcoop)
-		- [Coliga](#coliga)
-		- [Metastrat](#metastrat)
-		- [Initiatives et Cité](#initiatives-et-cit%C3%A9)
-		- [Digital Social innovation](#digital-social-innovation)
-		- [Design des politiques publiques en Europe](#design-des-politiques-publiques-en-europe)
-		- [Plateau Urbain](#plateau-urbain)
-		- [L'atelier paysan](#latelier-paysan)
-		- [Collectif Bam](#collectif-bam)
-		- [Hyperville](#hyperville)
-		- [Carton Plein](#carton-plein)
-		- [Lande](#lande)
-		- [Design Territoire Alternatives](#design-territoire-alternatives)
-		- [User Studio](#user-studio)
-		- [Plausible Possible](#plausible-possible)
-		- [Grrr](#grrr)
-		- [Coloco & co](#coloco--co)
-		- [Vraiment Vraiment](#vraiment-vraiment)
-		- [La Boussole](#la-boussole)
-		- [Scopyleft](#scopyleft)
-		- [Datactivi.st](#datactivist)
-		- [L'Office](#loffice)
-		- [La coroutine](#la-coroutine)
-		- [La Fabulerie](#la-fabulerie)
-		- [Codeurs en liberté](#codeurs-en-libert%C3%A9)
+		- [Geoffrey Dorne](#Geoffrey-Dorne)
+		- [Digicoop](#Digicoop)
+		- [Collectif Bam](#Collectif-Bam)
+		- [Low Tech Lab](#Low-Tech-Lab)
+		- [SOCCOOP](#SOCCOOP)
+		- [Heydon](#Heydon)
+		- [Makesense](#Makesense)
+		- [Symbiotique.fr](#Symbiotiquefr)
+	- [Entreprises](#Entreprises)
+		- [Tech coops](#Tech-coops)
+		- [Sassafras](#Sassafras)
+		- [Gcoop](#Gcoop)
+		- [Enspiral](#Enspiral)
+		- [Lab Coop](#Lab-Coop)
+		- [Koumbit](#Koumbit)
+		- [Territoires.coop](#Territoirescoop)
+		- [Colab.coop](#Colabcoop)
+		- [Coliga](#Coliga)
+		- [Metastrat](#Metastrat)
+		- [Initiatives et Cité](#Initiatives-et-Cit%C3%A9)
+		- [Digital Social innovation](#Digital-Social-innovation)
+		- [Design des politiques publiques en Europe](#Design-des-politiques-publiques-en-Europe)
+		- [Plateau Urbain](#Plateau-Urbain)
+		- [L'atelier paysan](#Latelier-paysan)
+		- [Collectif Bam](#Collectif-Bam-1)
+		- [Hyperville](#Hyperville)
+		- [Carton Plein](#Carton-Plein)
+		- [Lande](#Lande)
+		- [User Studio](#User-Studio)
+		- [Plausible Possible](#Plausible-Possible)
+		- [Grrr](#Grrr)
+		- [Coloco & co](#Coloco--co)
+		- [Vraiment Vraiment](#Vraiment-Vraiment)
+		- [La Boussole](#La-Boussole)
+		- [Scopyleft](#Scopyleft)
+		- [Datactivi.st](#Datactivist)
+		- [L'Office](#LOffice)
+		- [La coroutine](#La-coroutine)
+		- [La Fabulerie](#La-Fabulerie)
+		- [Codeurs en liberté](#Codeurs-en-libert%C3%A9)
 		- [/ut7](#ut7)
-		- [DTC innovation](#dtc-innovation)
-		- [Indie](#indie)
-		- [Hominidees](#hominidees)
-		- [L’agence de l’Aventure et de l’Inattendu](#lagence-de-laventure-et-de-linattendu)
-		- [Agency](#agency)
-		- [Odass](#odass)
-		- [Anybox ?](#anybox)
-		- [Coop It Easy](#coop-it-easy)
-		- [CoopDevs](#coopdevs)
-		- [Le Filament](#le-filament)
-		- [Cobea Coopérative](#cobea-coop%C3%A9rative)
-	- [Dev solo qui font de l'ESS](#dev-solo-qui-font-de-less)
+		- [DTC innovation](#DTC-innovation)
+		- [Indie](#Indie)
+		- [Hominidees](#Hominidees)
+		- [L’agence de l’Aventure et de l’Inattendu](#Lagence-de-lAventure-et-de-lInattendu)
+		- [Agency](#Agency)
+		- [Odass](#Odass)
+		- [Anybox ?](#Anybox)
+		- [Coop It Easy](#Coop-It-Easy)
+		- [CoopDevs](#CoopDevs)
+		- [Le Filament](#Le-Filament)
+		- [Cobea Coopérative](#Cobea-Coop%C3%A9rative)
+	- [ESN en vrac](#ESN-en-vrac)
+	- [Dev solo qui font de l'ESS](#Dev-solo-qui-font-de-lESS)
 
 <!-- /TOC -->
 
@@ -285,12 +285,6 @@ Cette plateforme permet de répertorier les terrains vacants de Montréal.
 
 [Lande](http://www.landemtl.com/) - Canada, Montréal
 
-### Design Territoire Alternatives
-
-Collectif de designers spécialisés en design de services et développement local
-
-[Design Territoire Alternatives](http://www.design-territoire-alternatives.fr/)
-
 
 ### User Studio
 
@@ -461,6 +455,18 @@ Ils ont travaillé depuis un an à la création de la coop et ont déposé les s
 Cobea Coop est une coopérative de création de sites web qui accompagne les entrepreneurs et les organisations à développer une communication digitale durable à coûts maîtrisés grâce à des méthodes collaboratives et une plateforme mutualisée.
 
 [cobea.coop](http://cobea.coop/) - Belgique, Saint Gilles
+
+## ESN en vrac
+
+Cf https://twitter.com/shirleyalmosni/status/1105933327217897479
+
+- **SOAT** : "Cabinet d'expertise IT où se conjuguent bonne humeur, technique et #agilité ! #mobile #web #DevOps #BigData #Craftsmanship" - java, agilité, js - Paris - https://www.soat.fr/ 
+- **Zenika** - "Cabinet d'#innovation technologique, managériale et organisationnelle. Il accompagne les entreprises dans leur #transfonum. #GreatPlaceToWork2018 #agile" - Paris, Lyon, Nantes, Rennes... - https://www.zenika.com/
+- **Norsys** - "norsys ne cherche pas à être la meilleure entreprise au monde, mais la meilleure pour le monde." - Lille/Paris/Lyon/Grenoble/Sophia/Nantes/Marrakech - https://www.norsys.fr/
+- **Collectif SURICATS** - "De l'incubation d'innovations au déploiement à grande échelle, nous accompagnons nos clients dans leurs projets de transformation numérique." - https://www.suricats-consulting.com/
+- **OCTO Technology** - "Part of Accenture Digital. IT consulting. We use technology and creativity to turn your ideas into reality #digital #bigdata #digitaltransformation #agile" - https://www.octo.com/
+- **beNext** - "Société innovante regroupant une #communauté de spécialistes et de #talents passionnés par l’#innovation, les #technologies et les pratiques #agiles" - http://www.benextcompany.com/
+- **Mnemotix** - "Ingénierie des connaissances et ingénierie documentaire pour les entreprises. #SemanticWeb" - Alpes Maritimes - http://www.mnemotix.com/
 
 ## Dev solo qui font de l'ESS
 

@@ -2,26 +2,26 @@
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Boîte à outils - Design](#bo%C3%AEte-%C3%A0-outils---design)
-	- [Listes de ressources](#listes-de-ressources)
-	- [Checklist](#checklist)
-	- [CSS](#css)
-	- [UX](#ux)
-	- [Prototypage / Wireframe / Mockups](#prototypage--wireframe--mockups)
-	- [Couleurs](#couleurs)
-	- [Templates](#templates)
-	- [Medias](#medias)
-		- [Photos](#photos)
-			- [Photos libres de droit](#photos-libres-de-droit)
-		- [Illustrations](#illustrations)
-		- [Vidéos](#vid%C3%A9os)
-		- [Icons](#icons)
-		- [Fonts](#fonts)
-	- [Manpulation images](#manpulation-images)
-		- [Retoucher vite fait une image](#retoucher-vite-fait-une-image)
-		- [Compression photo](#compression-photo)
-		- [Organisation photos](#organisation-photos)
-	- [Données](#donn%C3%A9es)
+- [Boîte à outils - Design](#Bo%C3%AEte-%C3%A0-outils---Design)
+	- [Listes de ressources](#Listes-de-ressources)
+	- [Checklist](#Checklist)
+	- [CSS](#CSS)
+	- [UX](#UX)
+	- [Prototypage / Wireframe / Mockups](#Prototypage--Wireframe--Mockups)
+	- [Couleurs](#Couleurs)
+	- [Templates](#Templates)
+	- [Medias](#Medias)
+		- [Photos](#Photos)
+			- [Photos libres de droit](#Photos-libres-de-droit)
+		- [Illustrations](#Illustrations)
+		- [Vidéos](#Vid%C3%A9os)
+		- [Icons](#Icons)
+		- [Fonts](#Fonts)
+	- [Manipulation images](#Manipulation-images)
+		- [Retoucher vite fait une image](#Retoucher-vite-fait-une-image)
+		- [Compression photo](#Compression-photo)
+		- [Organisation photos](#Organisation-photos)
+	- [Données](#Donn%C3%A9es)
 
 <!-- /TOC -->
 
@@ -34,13 +34,13 @@
 - [Resource Cards](https://resourcecards.com/)
 - [Wwwhere.io](http://wwwhere.io/)
 - [uxtools.co](https://uxtools.co/tools/design) : comparison table of available UX tools (design / prototyping)
-- [Design Principles](principles.design)
+- [Design Principles](https://principles.design/)
 - [Ui Goodies](http://uigoodies.com)
+- [Degreeless.design](https://www.degreeless.design/) : This is (almost) everything I learned in design school in one website
 
 ## Checklist
 
 - [Web designer's checklist app](https://imaginarydesign.github.io/webdev-checklist/) ([Le repo github](https://github.com/Imaginarydesign/webdev-checklist) )
-- [Web designer's checklist](http://webdesignerschecklist.com/)
 - [UX Recipe](https://uxrecipe.github.io/#)
 - [UX Checklist](https://uxchecklist.github.io/)
 - [IXD Checklist](http://ixdchecklist.com/)
@@ -82,6 +82,7 @@ Open source :
 - [Bootswatch](https://bootswatch.com/)
 - [templated](https://templated.co/)
 - [Creative Tim Repo](https://github.com/creativetimofficial) : bootstrap UI kits
+- [Pixelarity](https://pixelarity.com/) : du gars de html5up (plein de templates pr 19€ ?)
 
 ## Medias
 
@@ -102,6 +103,7 @@ Open source :
 - Banque Image Archive [via Grapheine](https://www.grapheine.com/divers/banque-image-archives-libres-de-droit)
 - https://undraw.co (MIT)
 - https://freeillustrated.com (CC0)
+- https://stubborn.fun/ : générateur d'illustrations
 
 ### Vidéos
 
@@ -110,6 +112,7 @@ Open source :
 ### Icons
 - https://feathericons.com (MIT)
 - https://boxicons.com (CC 4.0/OFL-1.1)
+- https://illustrio.com
 
 ### Fonts
 
@@ -119,7 +122,7 @@ Open source :
 - [FontPair](https://fontpair.co/)
 - [TypeWolf](https://www.typewolf.com)
 
-## Manpulation images
+## Manipulation images
 
 ### Retoucher vite fait une image
 
@@ -131,6 +134,10 @@ Open source :
 - [https://tinyjpg.com](https://tinyjpg.com) : appliquer une compression sans perte de qualité supplémentaire (par contre, t'as le droit à max 20 images, à faire en plusieurs fois du coup). Ça peut être une bonne chose de redimmensionner jusqu'à avoir un fichier de genre 250-300ko (compression avec perte de qualité), et le passer dans TinyJpg (compression sans perte de qualité) pour le réduire d'avantage jusqu'à être dans les 150ko.
 
 Pense à virer les infos EXIF des photos aussi, elles seront plus légères après
+
+- [Squoosh](https://squoosh.app/editor)
+
+- [Guide optimisation image](https://images.guide/)
 
 ### Organisation photos
 
