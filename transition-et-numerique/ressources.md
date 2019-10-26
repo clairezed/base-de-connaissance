@@ -6,6 +6,8 @@
 
 - [Éco-conception : mon site web au régime](https://www.paris-web.fr/2016/conferences/eco-conception-mon-site-web-au-regime.php), Frédéric Bordage, 2016
 - [Le Green IT : facteur incontournable pour laver plus vert le web responsable](https://www.paris-web.fr/2017/conferences/le-green-it-facteur-incontournable-pour-laver-plus-vert-le-web-responsable.php), Christophe Clouzeau, 2017
+- [Liste eco-conception web](https://groups.google.com/forum/#!forum/ecoconceptionweb)
+- [Slides atelier numérique responsable](https://hackmd.io/@yaaax/atelier-numerique-responsable#/)
 
 ## A lire
 
