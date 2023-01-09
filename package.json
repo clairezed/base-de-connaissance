@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/clairezed/base-de-connaissance#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.5.2"
+    "@11ty/eleventy": "^1.0.2"
   }
 }
